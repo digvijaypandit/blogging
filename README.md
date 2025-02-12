@@ -42,15 +42,15 @@ To set up and run this project locally, follow these steps:
    git clone https://github.com/digvijaypandit/blogging.git
    
 2. **Navigate to the project directory**:
-```sh
+   ```sh
    cd your-repo
-```
+   ```
 3. **Install dependencies**:
-```
+   ```sh
    npm install
    ```
 4. **Start the development server**:
-```
+   ```sh
    npm run dev
    ```
 ##Demo
@@ -73,4 +73,4 @@ If deploying on platforms like **Vercel, Netlify, or Railway**, set the followin
 Refer to the official documentation of your hosting provider on how to configure environment variables.  
 ```
 ##License
-This project is licensed under the MIT License. See the LICENSE (LICENSE) file for more details.
+This project is licensed under the MIT License. See the LICENSE ([LICENSE](https://github.com/digvijaypandit/blogging/blob/main/License)) file for more details.
