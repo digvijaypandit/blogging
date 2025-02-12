@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 This project is a React application integrated with **AppWrite** for backend services. It includes a **rich text editor (RTE)** component using TinyMCE and **React Hook Form** for form handling.  
 
-> **This project is developed under the guidance of [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudhary) and the Chai aur Code community.** ☕🚀  
+> **This project is developed under the guidance of [Hitesh Choudhary](https://www.youtube.com/@chaiaurcode) and the Chai aur Code community.** ☕🚀  
 
 ## Detailed Description  
 
@@ -41,20 +41,20 @@ To set up and run this project locally, follow these steps:
    ```sh
    git clone https://github.com/digvijaypandit/blogging.git
    
-Navigate to the project directory:
+2. **Navigate to the project directory**:
 ```sh
-  cd your-repo
+   cd your-repo
 ```
-Install dependencies:
+3. **Install dependencies**:
 ```
-  npm install
+   npm install
+   ```
+4. **Start the development server**:
 ```
-Start the development server:
-```
-  npm run dev
-```
+   npm run dev
+   ```
 ##Demo
-Check out the live demo: [Live Demo] (https://blog-deployment-ghu9.vercel.app/)
+Check out the live demo: [Live Demo](https://blog-deployment-ghu9.vercel.app/)
 ---
 
 #### **Option 2: If You Use Environment Variables in a Hosting Service**  
